@@ -1,6 +1,9 @@
-# dicee
+# dicee🎲
 
-A new Flutter project.
+Dicee is a dice app built with flutter<br>
+<br>
+![dicee-demo](https://user-images.githubusercontent.com/43815519/124587504-4e3b9680-de75-11eb-9f54-3e528ff9eff5.gif)
+
 
 ## Getting Started
 
